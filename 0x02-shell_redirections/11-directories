@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d \( \! -name . \! name .. \) -prune -print | wc -l
+ls -laR | grep -c ^d
