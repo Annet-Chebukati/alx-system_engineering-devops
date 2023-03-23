@@ -1,4 +1,4 @@
-# [ALX Softwware Engineering Programme](https://www.alxafrica.com/about/)
+# [ALX Software Engineering Programme](https://www.alxafrica.com/about/)
 
 This repository stores my solutions to the amazing system engineering devops projects I did at the ALX SWE Programme.
 
